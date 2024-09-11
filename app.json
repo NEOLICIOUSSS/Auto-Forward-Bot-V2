@@ -1,5 +1,5 @@
 {
-  "name": "Auto-Forward-Bot-V2",
+  "name": "Lord-Neo",
   "description": "Telegram's Best Smart Plugin File Forward Bot",
   "logo": "https://telegra.ph/file/5c3499c3b2ec282cf0c4e.jpg",
   "stack": "container",
@@ -16,19 +16,19 @@
   "env": {
     "API_ID": {
       "description": "Get this value from https://my.telegram.org or @UseTGSBot",
-      "value": ""
+      "value": "20931062"
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org or @UseTGSBot",
-      "value": ""
+      "value": "3e9182704531b9dd6c91745cc2965a97"
     },
     "BOT_TOKEN": {
       "description": "Your bot token from @BotFather",
-      "value": ""
+      "value": "7180910345"
     },
     "BOT_OWNER_ID": {
       "description": "Enter Your Telegram id",
-      "value": ""
+      "value": "525792934"
     },
     "BANNED_USERS": {
       "description": "If you want to add a caption to the forwarded file, enter it here",
